@@ -1,16 +1,16 @@
 {
-  "name": "My Progressive Web App",
-  "short_name": "My PWA",
-  "description": "This is a simple example app built with HTML, CSS, and JavaScript.",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#f7f7f7",
-  "theme_color": "#333",
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
-}
+    "name": "My Simple PWA",
+    "short_name": "My PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#007bff",
+    "icons": [
+      {
+        "src": "/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
