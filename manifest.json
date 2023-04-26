@@ -1,6 +1,6 @@
 {
-  "short_name": "Alten News PWA",
-  "name": "Alten News Progressive Web App demo",
+  "short_name": "PWA demo",
+  "name": "Alten News",
   "description": "Alten News Progressive Web App (PWA) demo",
   "icons": [
     {
